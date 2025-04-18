@@ -210,7 +210,7 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM 18" src="https://github.com/user-attachments/assets/a013313b-16e7-4d7e-80d1-35cabfce1582" />
 </p>
 <p>
-- You can view the Windows and Linux VMs we created in the Cloud. You will notice the RG and Locations match, what OS they are running, Public IP addresses, and so much more... *Pro Tip: Notice the Start, Restart, and Stop buttons above the OS and Size area. You can use these to "turn off", "turn on" , or "restart" the VMs like you would your physical PC or Laptop. To save on your subsricption, you can "Stop" the VMs from running while you are not using them. Just make sure to "Start" them when you are ready to use them again. If want want extar practice, you can simply delete the RG and recreate everything as needed.*   
+- You can view the Windows and Linux VMs we created in the Cloud. You will notice the RG and Locations match, what OS they are running, Public IP addresses, and so much more... *Pro Tip: Notice the Start, Restart, and Stop buttons above the OS and Size area. You can use these to "turn off", "turn on" , or "restart" the VMs like you would your physical PC or Laptop. To save on your subsricption, you can "Stop" the VMs from running while you are not using them. Just make sure to "Start" them when you are ready to use them again. If you want extra practice, you can simply delete the RG and recreate everything as needed.*   
 </p>
 <br />
 
