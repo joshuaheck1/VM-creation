@@ -1,18 +1,24 @@
+![cloud2](https://github.com/user-attachments/assets/bfb02120-7283-49b3-850a-5f6497fbd5e9)
 <p align="center">
-  <img width="300" alt="Screenshot 2025-01-07 at 10 53 29 PM" src="https://github.com/user-attachments/assets/4d82ba1a-d2a9-4b12-885b-ac928c678d4c" />
+ 
 </p>
 
 <h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
-In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure to be used for inspecting network traffic. <br />
+In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and a key component to all of the IT projects listed. <br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 
 <h2>Operating Systems Used </h2>
+
 - MacOS 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
+
+<h2>List of Prerequisites</h2>
+
+- <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">Microsoft Azure account</a> 
 
 <h2>High-Level Steps</h2>
 
