@@ -34,7 +34,7 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM RG1" src="https://github.com/user-attachments/assets/1c6e64ad-18da-497c-8ccc-3fe556fd6325" />
 </p>
 <p>
-- After creating an account with Microsoft Azure and loging in, you will end up at the Quickstart Center screen. Welcome to Azure!
+- After creating an account with Microsoft Azure and getting logged in, you will end up at the Quickstart Center screen. Welcome to Azure!
 </p>
 <br />
 
@@ -55,34 +55,30 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <br />
 
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 11 00 54 PM" src="https://github.com/user-attachments/assets/be842a97-4b65-471b-85ce-b40fefdd8f25" />
+<img width="750" alt="CVM RG4" src="https://github.com/user-attachments/assets/f1b182f0-e9db-475e-9036-6241d4c9366e" />
 </p>
 <p>
-For size, anything with at least 2 vCPU's and 8 GiB of memory will be sufficient. Next, enter in a username and password that you would like to use for the Windows VM.
+- The Subscription box should reflect whatever you chose when setting up your Azure account. If you do not see that, click the drop down arrow to find it. Now, name your Resource Group (RG). This RG is where our VMs will be stored in the Cloud. Next, choose the Region. *Pro Tip: Select (US) East US 2 for ALL Region options. Making sure the Region matches for eveything we create will save you from future headaches.* Now click next at the bottom of the screen.
 </p>
-<p> Finally, scroll down to the bottom of the page and check the box for licensing, click Review+Create and Create once the review is passed. The Windows VM will now take a few minutes to deploy. </p>
-<br />
-
-<h3>Step 2: Create the Linux VM in Azure </h3>
-<p>
-<img width="750" alt="Screenshot 2025-01-07 at 11 02 26 PM" src="https://github.com/user-attachments/assets/41a917cd-1b2e-4489-8bcb-429dd1780120" />
-</p>
-<p>
-Going back to the Virtual Machines home page, create another virtual machine. Be sure that it is under the same Resource Group as the Windows VM. 
-</p>
-<p> Name this VM to indicate that it is the Linux VM, pick the same region as the Windows VM, and leave the zone selection as is unless prompted by Azure. </p>
 <br />
 
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 11 04 11 PM" src="https://github.com/user-attachments/assets/186ec692-9fc4-418c-a13c-ac4735f504b5" />
+<img width="750" alt="CVM RG5" src="https://github.com/user-attachments/assets/4d913c40-61ef-4e03-8488-d6ab4bb06540" />
 </p>
 <p>
-For the image, please select Ubuntu Server 22.04. 2 vCPU's and 8Gib memory will suffice. </p>
+- Review the Resource Group information and click Create. Make note of the name and region you used for future reference. 
+</p>
 <br />
 
-
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 11 05 01 PM" src="https://github.com/user-attachments/assets/bf019ab9-ea77-4d05-b4a6-814a92e0b083" />
+<img width="750" alt="CVM RG6" src="https://github.com/user-attachments/assets/541f3928-a25c-473c-9b4e-e0ca9805304b" />
+</p>
+<p>
+- After clicking Create you will be directed back to the RG section. You have successfully created your Resource Group in the Cloud. Now let's get to the good part and the real reason we're all here. To create some VMs! </p>
+<br />
+
+<h3> Step 2: Create a Windows VM in Azure </h3><p>
+<img width="750" alt="CVM 1" src="https://github.com/user-attachments/assets/b801376c-5ef5-4c92-bfc1-75d2b3112549" />
 </p>
 <p>
   Deselect SSH public key and select password instead. Enter in a username and password for the Linux VM. Preferably the same one as the Windows VM for ease of memory.
