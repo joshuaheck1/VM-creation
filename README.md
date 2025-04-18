@@ -22,8 +22,9 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create the Windows VM in Azure
-- Step 2: Create the Linux VM in Azure
+- Step 1: Create a Resource Group in Azure
+- Step 2: Create the Windows VM in Azure
+- Step 3: Create the Linux VM in Azure
 
 <h2>Walkthrough Demonstration</h2>
 
