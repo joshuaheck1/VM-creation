@@ -13,8 +13,8 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <h2>Operating Systems Used </h2>
 
 - MacOS 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 10 Pro (21H2)
+- Ubuntu Server 22.04
 
 <h2>List of Prerequisites</h2>
 
@@ -28,31 +28,30 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 
 <h2>Walkthrough Demonstration</h2>
 
-<h3> Step 1: Create the Windows VM in Azure </h3>
+<h3> Step 1: Create a Resource Group in Azure </h3>
 
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 10 53 29 PM" src="https://github.com/user-attachments/assets/3a014396-b9ae-4e68-a959-70d7cd2d235f" />
+<img width="750" alt="CVM RG1" src="https://github.com/user-attachments/assets/1c6e64ad-18da-497c-8ccc-3fe556fd6325" />
 </p>
 <p>
-Upon creating an account with Microsoft Azure, navigate to Virtual Machines (VM) in the search bar and begin creating your Windows and Linux VMs.
+- After creating an account with Microsoft Azure and loging in, you will end up at the Quickstart Center screen. Welcome to Azure!
 </p>
 <br />
 
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 10 54 34 PM" src="https://github.com/user-attachments/assets/c06a5e8a-8390-4c5f-815c-11e0d36fc389" />
+<img width="750" alt="CVM RG2" src="https://github.com/user-attachments/assets/225c4871-81f4-4c60-8cd1-f60c93de7d8c" />
 </p>
 <p>
-Begin by creating a new resource group (RG) to contain our virtual machines. This RG will be created with our VM. Assign it a name and remember to put your VMs under this resource group.
+- Locate the Search Bar at the top of your screen. We will use this to find the Resourse Groups. Notice the options that populate as you type "resource" into the search bar. Select Resource Groups.
 </p>
-<p>Region selection can be selected based upon your geographical region. For the sake of consistency, pick the same region for everything you create.</p>
+
 <br />
 
 <p>
-<img width="750" alt="Screenshot 2025-01-07 at 11 00 32 PM" src="https://github.com/user-attachments/assets/46638387-4be9-4f0e-84f4-727c9688d545" />
+<img width="750" alt="CVM RG3" src="https://github.com/user-attachments/assets/72a12b56-b80c-4cd8-85ea-20661e028bd0" />
 </p>
-<p>
-We will first create our WindowsVM so give the VM a name that will help you identify it as the Windows VM. After selecting the proper region, leave the zone as is unless prompted by Azure to change it, and be sure to select Windows 10 Pro for the image. (DO NOT select Windows Server.)
-</p>
+<p> - Oops! The resource groups seem to be missing... Have no fear, IT is here! 😎 Click the + Create button and let's get this party started!</p>
+<br />
 <br />
 
 <p>
