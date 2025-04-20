@@ -58,7 +58,12 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM RG4" src="https://github.com/user-attachments/assets/f1b182f0-e9db-475e-9036-6241d4c9366e" />
 </p>
 <p>
-- 1.) The Subscription box should reflect whatever you chose when setting up your Azure account. If you do not see that, click the drop down arrow to find it. 2.) Now, name your Resource Group (RG). This RG is where our VMs will be stored in the Cloud. 3.) Next, choose the Region. *Pro Tip: Select (US) East US 2 for ALL Region options. Making sure the Region matches for eveything we create will save you from future headaches.* Now click next at the bottom of the screen.
+ 
+ 1. The Subscription box should reflect whatever you chose when setting up your Azure account. If you do not see that, click the drop down arrow to find it. 
+ 
+ 2. Now, name your Resource Group (RG). This RG is where our VMs will be stored in the Cloud.
+ 
+ 3. Next, choose the Region. *Pro Tip: Select (US) East US 2 for ALL Region options. Making sure the Region matches for eveything we create will save you from future headaches.* Now click next at the bottom of the screen.
 </p>
 <br />
 
@@ -104,7 +109,15 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM 5" src="https://github.com/user-attachments/assets/eec90446-dfc6-4585-a148-f42cb3ee7b3d" />
 </p>
 <p>
- - Your subscription should already be selected. 1.) Choose the RG we created earlier. 2.) Name the VM "windows-vm". 3.) Select the same Region as before. "(US) East US 2". *We want the RG and Region to be the same for everything we are creating.* 4.) Select "Windows 10 Pro, version 22H2" for the Image. This will be the Operating System (OS) for the VM. *Do Not select a Windows Server*
+ - Your subscription should already be selected.
+ 
+ 1. Choose the RG we created earlier.
+ 
+ 2. Name the VM "windows-vm".
+    
+ 3. Select the same Region as before. "(US) East US 2". *We want the RG and Region to be the same for everything we are creating.*
+    
+ 4. Select "Windows 10 Pro, version 22H2" for the Image. This will be the Operating System (OS) for the VM. *Do Not select a Windows Server*
 </p>
 <br />
 
