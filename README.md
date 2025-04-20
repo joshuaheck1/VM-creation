@@ -217,6 +217,6 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <h2>Summary</h2>
 
 <p>
-This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. We got to learn and witness the many possibilties of what Cloud Computing and Virtualization offers. Now, we essentilly have three machines in total to use how we want for our IT needs. I completed this from a Macbook and have gained access to 2 other machines running a differnet OS without taking up any desk space or shelling out thousands of dollars. You can clearly see the many benefits that companies gain from using Cloud Services and Cloud Sevirce Providers (CSP). Thank you for your time and viewing this Project. We'll see you on the next one! 😎      
+This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. We got to learn and witness the many possibilties of what Cloud Computing and Virtualization offers. Now, we essentilly have three machines in total to use how we want for our IT needs. I completed this from a Macbook and have gained access to 2 other machines running a differnet OS without taking up any desk space or shelling out thousands of dollars. You can clearly see the many benefits that companies gain from using Cloud Services and Cloud Service Providers (CSP). Thank you for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
