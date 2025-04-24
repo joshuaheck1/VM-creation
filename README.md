@@ -223,13 +223,15 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM 18" src="https://github.com/user-attachments/assets/a013313b-16e7-4d7e-80d1-35cabfce1582" />
 </p>
 <p>
-- You can view the Windows and Linux VMs we created in the Cloud. You will notice the RG and Locations match, what OS they are running, Public IP addresses, and so much more... *Pro Tip: Notice the Start, Restart, and Stop buttons above the OS and Size area. You can use these to "turn off", "turn on" , or "restart" the VMs like you would your physical PC or Laptop. To save on your subsricption, you can "Stop" the VMs from running while you are not using them. Just make sure to "Start" them when you are ready to use them again. If you want extra practice, you can simply delete the RG and recreate everything as needed.*   
+- You can view the Windows and Linux VMs we created in the Cloud. You will notice the RG and Locations match, what OS they are running, Public IP addresses, and so much more... </p>
+<p> *Pro Tip: Notice the Start, Restart, and Stop buttons above the OS and Size area. You can use these to "turn off", "turn on" , or "restart" the VMs like you would your physical PC or Laptop. To save on your subsricption, you can "Stop" the VMs from running while you are not using them. Just make sure to "Start" them when you are ready to use them again. If you want extra practice, you can simply delete the RG and recreate everything as needed.*   
 </p>
 <br />
 
 <h2>Summary</h2>
 
 <p>
-This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. We got to learn and witness the many possibilties of what Cloud Computing and Virtualization offers. Now, we essentilly have three machines in total to use how we want for our IT needs. I completed this from a Macbook and have gained access to 2 other machines running a differnet OS without taking up any desk space or shelling out thousands of dollars. You can clearly see the many benefits that companies gain from using Cloud Services and Cloud Service Providers (CSP). Thank you for your time and viewing this Project. We'll see you on the next one! 😎      
+This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. We got to learn and witness the many possibilties of what Cloud Computing and Virtualization offers. Now, we essentilly have three machines in total to use how we want for our IT needs. </p>
+<p>I completed this from a Macbook and have gained access to 2 other machines running a differnet OS without taking up any desk space or shelling out thousands of dollars. You can clearly see the many benefits that companies gain from using Cloud Services and Cloud Service Providers (CSP). Don't forget to Stop (turn off) the VMs in Azure. Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
