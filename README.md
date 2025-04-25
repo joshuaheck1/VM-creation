@@ -12,7 +12,7 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 
 <h2>Operating Systems Used </h2>
 
-- MacOS 
+- macOS Sequoia
 - Windows 10 Pro (21H2)
 - Ubuntu Server 22.04
 
