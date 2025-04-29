@@ -133,7 +133,8 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt="CVM 7" src="https://github.com/user-attachments/assets/f881cb39-aef3-4eeb-affb-4466f22ad25a" />
 </p>
 <p>
- - Next, you will create a username and password for the VM. We will need this to log on later with a Remote Desktop Connection (RDP). *Highly recommend saving this infomation to refer back to later.* Now, locate the Licensing area towards the bottom of the screen. You will need to check the box to confirm. This is required because we are creating a Windows VM. Deployment will not work if left unchecked. Click "Next: Disks" to move on.
+ - Next, you will create a username and password for the VM. We will need this to log on later with a Remote Desktop Connection (RDP). *Highly recommend saving this infomation to refer back to later.*</p>
+<p>- Now, locate the Licensing area towards the bottom of the screen. You will need to check the box to confirm. This is required because we are creating a Windows VM. Deployment will not work if left unchecked. Click "Next: Disks" to move on.
 </p>
 <br />
 
