@@ -125,7 +125,8 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <img width="750" alt"CVM 6" src="https://github.com/user-attachments/assets/8d66c106-64c0-4ad1-a9ec-0f0c5570a014" />
 </p>
 <p>
- - Scroll down to select the Size. We want to use the "Standard_D2s_v5 - 2 vcpus, 8 GiB memory". If you do not see this listed, click "See all sizes" to get more options. Sometimes the Region selected can cause this specific size to not populate. That is okay. Just make sure the size you pick has at least 2 vcpus and 8 GiB memory. This will be plenty of power to handle what we are doing. 😉
+ - Scroll down to select the Size. We want to use the "Standard_D2s_v5 - 2 vcpus, 8 GiB memory".</p>
+<p>- If you do not see this listed, click "See all sizes" to get more options. Sometimes the Region selected can cause this specific size to not populate. That is okay. Just make sure the size you pick has at least 2 vcpus and 8 GiB memory. This will be plenty of power to handle what we are doing. 😉
 </p>
 <br />
 
