@@ -192,8 +192,8 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 <p>
 <img width="750" alt="CVM 14" src="https://github.com/user-attachments/assets/ddad7697-f8cf-4003-a93b-f1b040f82c65" />
 </p>
-<p>
-- Choose the same Size option as before. "Standard_D2s_v5 - 2 vcpus, 8 GiB memory". Next, you will need to select "Password" for Authentication type. Azure defaults to SSH public key. Then, create a Username and Password. You can use information as the Windows VM to keep it simple.Once you are done, scroll done and click "Disks". Leave these options as default and skip to "Networking". 
+<p>- Choose the same Size option as before. "Standard_D2s_v5 - 2 vcpus, 8 GiB memory". </p>
+<p>- Next, you will need to select "Password" for Authentication type. Azure defaults to SSH public key. Then, create a Username and Password. You can use information as the Windows VM to keep it simple.Once you are done, scroll done and click "Disks". Leave these options as default and skip to "Networking". 
 </p>
 <br />
 
