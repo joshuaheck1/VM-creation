@@ -6,21 +6,21 @@
 <h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
 In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br />
 
-<h2>Prerequisite</h2>
+<h2>📋 Prerequisite</h2>
 
 - <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">Microsoft Azure account</a> 
 
-<h2>Environments and Technologies Used</h2>
+<h2>💻 Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 
-<h2>Operating Systems Used </h2>
+<h2>👨‍💻 Operating Systems Used </h2>
 
 - macOS Sequoia
 - Windows 10 Pro (21H2)
 - Ubuntu Server 22.04
 
-<h2>High-Level Steps</h2>
+<h2>🪜 High-Level Steps</h2>
 
 - Step 1: Create a Resource Group in Azure
 - Step 2: Create the Windows VM in Azure
