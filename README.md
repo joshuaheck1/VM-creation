@@ -6,7 +6,7 @@
 <h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
 In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br />
 
-<h2>📋 Prerequisite</h2>
+<h2>⚠️ Prerequisite</h2>
 
 - <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">Microsoft Azure account</a> 
 
@@ -230,7 +230,7 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 </p>
 <br />
 
-<h2>Conclusion</h2>
+<h2>✅ Conclusion</h2>
 
 <p>
 This concludes our project. We sucessfully created a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Unbutu in the Cloud. We got to learn and witness the many possibilties of what Cloud Computing and Virtualization offers. Now, we essentilly have three machines in total to use how we want for our IT needs. </p>
